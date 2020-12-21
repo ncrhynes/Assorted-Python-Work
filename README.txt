@@ -4,27 +4,6 @@ A collection of python works, all written by me.
 These are mostly made for fun, usually to automate or make more efficient a mathematical 
 process I find interesting.
 
-[TO REMOVE FROM FINAL GITHUB:
-derangements
-fuck R
-listadd
-miranda's swap
-modSquare
-Name Match (Maybe revisit?)
-Neat Code
-NP Test
-Colours
-Power Set
-Primes
-Print String
-Product Average Calc
-Recursive Product
-Square Spiral
-Square Fractal
-SquaresLessThan
-SquareSum5
-]
-
 Highlights:
 (Descriptions are below, alphabetized by topic) 
 
